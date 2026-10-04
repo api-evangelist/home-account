@@ -46,7 +46,7 @@ created: '2026-07-17'
 modified: '2026-09-16'
 tags:
 - Company
-- Financial-Services
+- Financial Services
 - Fintech
 - Mortgage
 - Consumer Credit
@@ -62,6 +62,7 @@ tags_raw:
 - Risk Analytics
 - Homeownership
 - Defunct
+- Financial-Services
 apis: []
 common:
 - type: Website
